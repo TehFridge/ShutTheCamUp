@@ -2,6 +2,10 @@
 Removes the shutter and high-pitched beep sound from the Nintendo 3DS Camera App
 
 ![image](https://github.com/TehFridge/ShutTheCamUp/assets/85436576/e2c71d2a-f0c6-4166-b4f5-c48f268e05a0)
+
+# Why tho?
+Imagine you are playing your 3ds in a cafe or smt, you need to use the camera feature and suddenly the shutter sound bursts out of the speakers, we wouldnt want that. 
+
 # How is it possible?!
 The shutter sound was embedded in some system process, we just discovered it now lol. So i just decided to null the bytes with audio data, and it worked!
 
