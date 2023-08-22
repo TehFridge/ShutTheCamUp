@@ -9,11 +9,6 @@ The shutter sound was embedded in some system process, we just discovered it now
 Yup. there are two seperate patches individually for the new and old model of the console.
 
 # Installation
-**The title ID's are:**
-
-0004013020001602 - New 3DS
-
-0004013000001602 - Old 3DS
 
 ## For users that are below Luma3DS v13:
 
