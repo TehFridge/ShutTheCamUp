@@ -5,5 +5,5 @@ Removes the shutter and high-pitched beep sound from the Nintendo 3DS Camera App
 # How is it possible?!
 The shutter sound was embedded in some system process, we just discovered it now lol. So i just decided to null the bytes with audio data, and it worked!
 
-# Does it work on Old and New 3DS
+# Does it work on Old and New 3DS?
 Yup. there are two seperate patches individually for the new and old model of the console.
