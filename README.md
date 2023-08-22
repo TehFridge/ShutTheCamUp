@@ -16,7 +16,7 @@ Yup. there are two seperate patches individually for the new and old model of th
 0004013000001602 - Old 3DS
 
 For users that are below Luma3DS v13:
-Put the .ips file in */luma/sysmodules/{titleid}.ips*
+Put the .ips file in */luma/titles/titleID/code.ips*
 
 For users that are on Luma3DS v13 or higher:
-Put the .ips file in */luma/titles/titleID/code.ips*
+Put the .ips file in */luma/sysmodules/{titleid}.ips*
