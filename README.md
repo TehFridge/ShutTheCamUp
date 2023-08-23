@@ -1,5 +1,7 @@
 # ShutTheCamUp
 
+Removes the camera shutter and high-pitched beep sound from the Nintendo 3DS (works on all 3ds apps)
+
 [Installation](#installation)
 
 [Why?](#why-tho)
@@ -7,8 +9,6 @@
 [Does it work on both Old and New3DS?](#does-it-work-on-both-old-and-new-3ds)
 
 [How is it possible?](#how-is-it-possible)
-
-Removes the camera shutter and high-pitched beep sound from the Nintendo 3DS (works on all 3ds apps)
 
 ![image](https://github.com/TehFridge/ShutTheCamUp/assets/85436576/e2c71d2a-f0c6-4166-b4f5-c48f268e05a0)
 
