@@ -4,7 +4,7 @@
 
 [Why?](#why-tho)
 
-[Does it work on both Old and New3DS?](#does-it-work-on-both-old-and-new3ds)
+[Does it work on both Old and New3DS?](#does-it-work-on-both-old-and-new-3ds)
 
 [How is it possible?](#how-is-it-possible)
 
