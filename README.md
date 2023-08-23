@@ -2,11 +2,11 @@
 
 [Installation](#installation)
 
-[Why?](#why-tho?)
+[Why?](#why-tho)
 
-[Does it work on both Old and New3DS?](#does-it-work-on-both-old-and-new3ds?)
+[Does it work on both Old and New3DS?](#does-it-work-on-both-old-and-new3ds)
 
-[How is it possible?](#how-is-it-possible?)
+[How is it possible?](#how-is-it-possible)
 
 Removes the camera shutter and high-pitched beep sound from the Nintendo 3DS (works on all 3ds apps)
 
@@ -15,7 +15,7 @@ Removes the camera shutter and high-pitched beep sound from the Nintendo 3DS (wo
 # DISCLAIMER
 I do not condone any misuses of this patch for malicious purposes or whatever.
 
-#why
+
 # Why tho?
 Imagine you are playing your 3ds in a cafe or smt, you need to use the camera feature in some game (for example. Face Raiders) and suddenly the shutter sound bursts out of the speakers and people look at you weirdly, we wouldnt want that. 
 
@@ -23,15 +23,14 @@ Also like... phones don't do that sort of thing (well maybe in japan, china caus
 
 I mostly created this patch cause i like the vibe of vlogging with a 3ds. It has its charm you know.
 
-#how
 # How is it possible?!
 The shutter sound was embedded in some system process, we just discovered it now lol. So i just decided to null the bytes with audio data, and it worked!
 
-#can
+
 # Does it work on Old and New 3DS?
 Yup. there are two seperate patches individually for the new and old model of the console.
 
-#installation
+
 # Installation
 
 ## For users that are below Luma3DS v13:
