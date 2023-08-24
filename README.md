@@ -33,11 +33,12 @@ Yup. there are two seperate patches individually for the new and old model of th
 
 # Installation
 
-**Make sure you enable game patching first!**
+**Make sure you enable game patching and loading external FIRMS and modules first!**
 
 for dummies: hold select while powering on the console to access the luma menu
 
-![image](https://github.com/TehFridge/ShutTheCamUp/assets/85436576/cd5bf9e0-483b-4730-bbf4-5e4549d114bc)
+![image](https://github.com/TehFridge/ShutTheCamUp/assets/85436576/a8e2fcef-e7a6-40b1-afcc-ba5b00d349c4)
+
 
 
 ## For users that are below Luma3DS v13:
