@@ -33,6 +33,11 @@ Yup. there are two seperate patches individually for the new and old model of th
 
 # Installation
 
+**Make sure you enable game patching first!**
+
+![image](https://github.com/TehFridge/ShutTheCamUp/assets/85436576/cd5bf9e0-483b-4730-bbf4-5e4549d114bc)
+
+
 ## For users that are below Luma3DS v13:
 
 **Put the .ips file like this:**
