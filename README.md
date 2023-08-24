@@ -35,6 +35,8 @@ Yup. there are two seperate patches individually for the new and old model of th
 
 **Make sure you enable game patching first!**
 
+for dummies: hold select while powering on the console to access the luma menu
+
 ![image](https://github.com/TehFridge/ShutTheCamUp/assets/85436576/cd5bf9e0-483b-4730-bbf4-5e4549d114bc)
 
 
